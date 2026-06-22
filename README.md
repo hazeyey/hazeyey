@@ -2,7 +2,7 @@
 <h3 align="center">BS Computer Science Student | Aspiring Web Developer</h3>
 
 <p align="center">
-  🌱 Currently learning Laravel, Vue.js, and Web Development<br>
+  🌱 Currently learning Laravel and Web Development<br>
   🎯 Preparing for OJT / Internship<br>
   💻 Passionate about building web applications
 </p>
@@ -13,7 +13,7 @@
 
 - 🎓 BS Computer Science Student
 - 💻 Interested in Web Development
-- 📚 Currently learning Laravel, PHP, Vue.js, and MySQL
+- 📚 Currently learning Laravel, PHP, and MySQL
 - 🔍 Exploring Git, GitHub, and Software Development Practices
 - 🎯 Looking to gain real-world experience through OJT
 
@@ -23,13 +23,10 @@
 
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -64,8 +61,8 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your-email@example.com
+- GitHub: https://github.com/hazeyey
+- Email: hazeljoyhingpit@example.com
 
 ---
 
