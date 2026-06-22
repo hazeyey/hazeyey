@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hazeljoy</h1>
-<h3 align="center">BS Computer Science Student | Aspiring Web Developer</h3>
+<h3 align="center">BS Computer Science Student | Aspiring Software Developer</h3>
 
 <p align="center">
-  🌱 Currently learning Laravel and Web Development<br>
-  🎯 Preparing for OJT / Internship<br>
-  💻 Passionate about building web applications
+  Based in Davao City, Philippines, I am a motivated 3rd-year Computer Science student <br>
+  passionate about building web applications and applying machine learning to real-world problems.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BS Computer Science Student
+- 🎓 BS Computer Science Specializing in Cybersecurity Student
 - 💻 Interested in Web Development
-- 📚 Currently learning Laravel, PHP, and MySQL
-- 🔍 Exploring Git, GitHub, and Software Development Practices
+- 📚 Currently learning Laravel
+- 👨‍💻 All of my projects are available at https://my-portfolio-hazeljoyhingpit.vercel.app/
 - 🎯 Looking to gain real-world experience through OJT
 
 ---
@@ -31,38 +30,26 @@
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
-
-- Laravel Framework
-- Vue.js
-- REST APIs
-- Git & GitHub Workflow
-- Software Engineering Principles
-
----
-
-## 🎯 Goals for 2026
-
-- Complete OJT successfully
-- Improve Laravel development skills
-- Build portfolio projects
-- Learn industry development workflows
-- Contribute to team projects
-
----
-
-## 📫 Connect With Me
+## 📫 Socials
 
 - GitHub: https://github.com/hazeyey
 - Email: hazeljoyhingpit@example.com
+- Facebook: https://www.facebook.com/hazeljoytotheworld
 
 ---
 
