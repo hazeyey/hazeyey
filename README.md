@@ -55,10 +55,3 @@
 
 ⭐ Always learning, building, and improving.
 
-
-## 🎀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazeyey&show_icons=true&hide_border=true&bg_color=fff7fb&title_color=d96b9c&icon_color=f19ac2&text_color=6b5b63&ring_color=f19ac2" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazeyey&layout=compact&hide_border=true&bg_color=fff7fb&title_color=d96b9c&text_color=6b5b63" height="180"/>
-</p>
