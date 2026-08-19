@@ -2,7 +2,7 @@
 <h3 align="center">BS Computer Science Student | Aspiring Software Developer</h3>
 
 <p align="center">
-  Based in Davao City, Philippines, I am a motivated 3rd-year Computer Science student <br>
+  Based in Davao City, Philippines, I am a motivated 4th-year Computer Science student <br>
   passionate about building web applications and applying machine learning to real-world problems.
 </p>
 
@@ -14,7 +14,6 @@
 - 💻 Interested in Web Development
 - 📚 Currently learning Laravel
 - 👨‍💻 All of my projects are available at https://my-portfolio-hazeljoyhingpit.vercel.app/
-- 🎯 Looking to gain real-world experience through OJT
 
 ---
 
