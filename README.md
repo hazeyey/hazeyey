@@ -54,3 +54,10 @@
 ---
 
 ⭐ Always learning, building, and improving.
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazeyey&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=555555&bg_color=fff5fa)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazeyey&layout=compact&title_color=ff69b4&text_color=555555&bg_color=fff5fa)
